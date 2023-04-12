@@ -1,2 +1,38 @@
 # Introduction-to-Computational-Linguistics
-An adaptation of 11-411. Notes will be provided
+This repo will introduce classical computational linguistics. The repo is developed based on ideas from CMU 11-411 Introduction to Natral Language Processing. This repo is not meant to be seen by anyone else but me,however if you find it, feel free to star it. Below is my progress on the development of the repo.
+#Progress
+- [ ] Application and project 
+  - [ ] reading ppt
+  - [ ] Take Notes
+- [ ] words and POS tagging 
+  - [ ] reading ppt
+  - [ ] textbook chapter 
+  - [ ] Take Notes
+- [ ] Neural Networks
+  - [ ] reading ppt
+  - [ ] textbook chapter 
+  - [ ] Take Notes
+- [ ] classification and sentimental analysis 
+  - [ ] reading ppt
+  - [ ] textbook chapter 
+  - [ ] Take Notes
+- [ ] Syntax and CFG
+  - [ ] reading ppt
+  - [ ] textbook chapter 
+  - [ ] Take Notes
+- [ ] Parsing
+  - [ ] reading ppt
+  - [ ] textbook chapter 
+  - [ ] Take Notes
+- [ ] lexical semantics and distributional vector semantics
+  - [ ] reading ppt
+  - [ ] textbook chapter 
+  - [ ] Take Notes
+- [ ] contextual embedding and word sense disambiguation
+  - [ ] reading ppt
+  - [ ] textbook chapter 
+  - [ ] Take Notes
+- [ ] compositional semantics and discourse/entity linkning
+  - [ ] reading ppt
+  - [ ] textbook chapter 
+  - [ ] Take Notes
